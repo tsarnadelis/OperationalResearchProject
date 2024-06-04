@@ -5,9 +5,9 @@ This project involves solving two optimization problems using Google Colab and G
 ## Project Overview
 This repository contains two optimization problems solved using Google Colab and Gurobi. The first problem focuses on scheduling the landings of flights at an airport with a single runway. The second problem addresses the delivery of heating oil from a refinery to various cities while minimizing the total travel distance.
 
-<p>
+<p align=center>
 <img src="https://i0.wp.com/begincodingnow.com/wp-content/uploads/2023/08/colab_logo.png?fit=260%2C160&ssl=1" alt="colab" width=20% height=auto>
-
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img src="https://avatars.githubusercontent.com/u/15114496?s=280&v=4" width=12% height=auto alt="gurobi">
 </p>
 
